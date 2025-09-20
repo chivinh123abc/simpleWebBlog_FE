@@ -67,4 +67,3 @@ export default defineConfig([
   },
 ])
 ```
-# simpleWebBlog_FE
