@@ -1,0 +1,26 @@
+[
+  {
+    "id": 5,
+    "title": "My 1 post",
+    "content": "Hello 2 blog!",
+    "createdAt": null
+  },
+  {
+    "id": 4,
+    "title": "My 4 post",
+    "content": "Hello 2 blog!",
+    "createdAt": null
+  },
+  {
+    "id": 3,
+    "title": "My 3 post",
+    "content": "Hello 2 blog!",
+    "createdAt": null
+  },
+  {
+    "id": 2,
+    "title": "My seccond post",
+    "content": "Hello 2 blog!",
+    "createdAt": null
+  }
+]
