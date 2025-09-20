@@ -5,6 +5,7 @@ import { Routes, Route } from 'react-router-dom'
 import Home from '~/pages/Home'
 import About from '~/pages/About'
 import Blog from '~/pages/Blog'
+import AddPostWindow from '~/pages/AddPostWindow'
 
 function App() {
   return (
@@ -12,7 +13,8 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/about" element={<About />} />
+        <Route path="/create" element={<About />} />
+        <Route path="/about" element={<AddPostWindow />} />
         <Route path="/blog/:id" element={<Blog />} />
       </Routes>
     </>
